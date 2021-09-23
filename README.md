@@ -1,2 +1,10 @@
 # iOSAppDevelopment
-A collection of the apps I worked on during CPSC 357
+### CPSC 357
+
+A collection of the apps I created using Swift. 
+
+## Selection Sorting Algorithm in Swift
+
+## Slider Assignment
+
+## Background Color App
